@@ -87,21 +87,21 @@ for i in range(len(x1)):
 
 # Flow to SA
 print('\nFlow to SA')
-print('Year:\t|\tIterations:')
+print('Year:\t|\tDays Surveyed:')
 print('========|=============')
 for i in range(len(x1)):
 	print(str(x1[i]) + '\t|\t' + str(z1[i]))
 
 # Falls Creek Rainfall
 print('\nFalls Creek Rainfall')
-print('Year:\t|\tIterations:')
+print('Year:\t|\tDays Surveyed:')
 print('========|=============')
 for i in range(len(x2)):
 	print(str(x2[i]) + '\t|\t' + str(z2[i]))
 
 # Yaouk Rainfall
 print('\nYaouk Rainfall')
-print('Year:\t|\tIterations:')
+print('Year:\t|\tDays Surveyed:')
 print('========|=============')
 for i in range(len(x3)):
         print(str(x3[i]) + '\t|\t' + str(z3[i]))
